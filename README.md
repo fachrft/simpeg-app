@@ -51,3 +51,11 @@ To preview the production build locally:
 ```bash
 pnpm preview
 ```
+
+## Reasoning Task
+
+To run the reasoning task, you can execute the `penalaran.js` file using Node.js:
+
+```bash
+node penalaran.js
+```
